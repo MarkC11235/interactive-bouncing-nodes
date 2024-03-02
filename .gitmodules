@@ -1,0 +1,3 @@
+[submodule "CastleGraphicsJS"]
+	path = CastleGraphicsJS
+	url = https://github.com/MarkC11235/CastleGraphicsJS.git
