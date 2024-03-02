@@ -1,0 +1,17 @@
+{
+  "name": "first_electron_app",
+  "version": "1.0.0",
+  "description": "first_electron_app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "package": "npx electron-packager . interactive-bouncing-nodes --platform=win32 --arch=x64 --out='C:/Users/markl/OneDrive/Desktop/first-electron-build' --overwrite"
+  },
+  "author": "MarkC11235",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0",
+    "electron-packager": "^17.1.2"
+  }
+}
